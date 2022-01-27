@@ -1,0 +1,19 @@
+{
+  "name": "@ciptohartanto/sass-test-package",
+  "version": "1.0.0",
+  "description": "a test package",
+  "main": "index.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciptohartanto/sass-test-package.git"
+  },
+  "author": "Cipto Hartanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciptohartanto/sass-test-package/issues"
+  },
+  "homepage": "https://github.com/ciptohartanto/sass-test-package#readme"
+}
